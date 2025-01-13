@@ -7,4 +7,5 @@
                  start-page="empty-md-topic.md">
 
     <toc-element topic="empty-md-topic.md"/>
+    <toc-element topic="hi.md"/>
 </instance-profile>
